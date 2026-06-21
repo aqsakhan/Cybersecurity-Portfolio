@@ -66,10 +66,6 @@ The attachment was opened and inspected to determine where victims were being re
 - Victims were redirected to a fake Microsoft login page.
 - The phishing page was hosted on attacker-controlled infrastructure.
 
-### Screenshot
-
-ADD_SS_HERE
-
 ---
 
 ### 3. Exposed Directory Discovery
@@ -90,7 +86,7 @@ An exposed directory listing contained the phishing kit archive.
 
 ### Screenshot
 
-ADD_SS_HERE
+<img width="1078" height="541" alt="image" src="https://github.com/user-attachments/assets/91940dde-ad3b-4180-a982-061f359b6102" />
 
 ---
 
