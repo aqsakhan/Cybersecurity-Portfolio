@@ -4,29 +4,23 @@ A collection of hands-on cybersecurity projects, investigations, and lab reports
 
 ---
 
-## Skills Demonstrated
+## Featured Projects
 
-- Phishing Analysis
-- Email Header Analysis
-- IOC Identification
-- Network Traffic Analysis
-- Wireshark
-- Threat Intelligence
-- Incident Response
-- SOC Operations
-- Log Analysis
-- Security Monitoring
+| Project | Description |
+|----------|-------------|
+| [OSINTIQ](https://github.com/aqsakhan/osintiq) | AI-powered SOC intelligence platform that enriches security alerts using VirusTotal, CVE intelligence, MITRE ATT&CK mappings, threat actor correlation, and AI-generated analyst recommendations. |
+| [Windows Command-Line Triage Tool](https://github.com/aqsakhan/win_cmd_triage) | Python-based SOC triage tool that analyzes Windows command-line activity, maps behavior to MITRE ATT&CK techniques, assigns risk levels, and provides analyst investigation guidance. |
 
 ---
 
-## Projects
+## Investigations
 
 ### Phishing Analysis
 
 | Project | Description |
 |----------|-------------|
-| [Greenholt Phish](./Phishing-Investigations/Greenholt-Phish.md) | Investigated a phishing email using header analysis, SPF/DMARC validation, attachment analysis, and VirusTotal. |
-| [Snapped Phish-ing Line](./Phishing-Investigations/Snapped-Phish-ing-Line.md) | Investigated a phishing campaign by analyzing phishing emails, tracing malicious infrastructure, examining a phishing kit, identifying stolen credentials, and extracting indicators of compromise (IOCs). |
+| [Greenholt Phish](./Phishing-Investigations/Greenholt-Phish.md) | Investigated a phishing email using header analysis, SPF/DMARC validation, attachment analysis, SHA256 hashing, and VirusTotal reputation checks. |
+| [Snapped Phish-ing Line](./Phishing-Investigations/Snapped-Phish-ing-Line.md) | Investigated a phishing campaign by analyzing phishing emails, tracing attacker infrastructure, examining a phishing kit, identifying stolen credentials, and extracting indicators of compromise (IOCs). |
 | Phishing Unfolding | Coming Soon |
 
 ---
@@ -50,7 +44,9 @@ A collection of hands-on cybersecurity projects, investigations, and lab reports
 
 ---
 
-## Tools Used
+## Tools & Technologies
+
+### Security Tools
 
 - Wireshark
 - VirusTotal
@@ -60,9 +56,21 @@ A collection of hands-on cybersecurity projects, investigations, and lab reports
 - ANY.RUN
 - Hybrid Analysis
 - NetworkMiner
+
+### Operating Systems & Scripting
+
 - Linux
 - Bash
 - Python
+
+### Frameworks & Methodologies
+
+- MITRE ATT&CK
+- Threat Intelligence
+- IOC Analysis
+- Incident Response
+- Security Monitoring
+- Phishing Analysis
 
 ---
 
