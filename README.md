@@ -26,7 +26,7 @@ A collection of hands-on cybersecurity projects, investigations, and lab reports
 | Project | Description |
 |----------|-------------|
 | [Greenholt Phish](./Phishing-Investigations/Greenholt-Phish.md) | Investigated a phishing email using header analysis, SPF/DMARC validation, attachment analysis, and VirusTotal. |
-| Snapped Phish-ing Line | Coming Soon |
+| [Snapped Phish-ing Line](./Phishing-Investigations/Snapped-Phish-ing-Line.md) | Investigated a phishing campaign by analyzing phishing emails, tracing malicious infrastructure, examining a phishing kit, identifying stolen credentials, and extracting indicators of compromise (IOCs). |
 | Phishing Unfolding | Coming Soon |
 
 ---
